@@ -10,3 +10,5 @@ or owned/created by an entity (the players themselves).
 Please join us in creating what we hope will be the biggest and most versatile
 MMORPG known to humankind.
 Other kinds of beings are also welcome to contribute and benefit. :)
+
+## Vision
