@@ -12,3 +12,5 @@ MMORPG known for the rest of eternity.
 Everyone is welcome to contribute and benefit. :)
 
 ## Vision
+Our vision is to create as a community the most universal and apt software system
+for the creation and exploration of interconnected virtual worlds.
